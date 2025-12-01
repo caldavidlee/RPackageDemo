@@ -1,0 +1,8 @@
+Package: mypkg
+Type: Package
+Title: Example Minimal Package
+Version: 0.1.0
+Author: David Lee
+Maintainer: David Lee <divarnold@berkeley.edu>
+Description: A minimal example package for learning purposes.
+License: MIT
